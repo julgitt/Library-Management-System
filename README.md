@@ -1,7 +1,9 @@
 LIBRARY MANAGEMENT SYSTEM
 ___
 
-A window application that allows you to manage the library database. It will include such functionalities as: 
+A window application that allows you to manage the library database. 
+
+It includes such functionalities as: 
 - adding and deleting books, library users and book borrowings
 - creating a bill if the user does not respect the deadline for returning the book.
 
